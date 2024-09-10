@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-foreach-if-array-CSharp-main", "Guided-project-foreach-if-array-CSharp-main", "{49E9F236-7B0B-4DFE-A58D-98614B2CD135}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{3417F9E4-F415-4B95-A1D3-C1431010111C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\Final.csproj", "{02599810-C6F1-4FA8-9DAA-B259F6A0315E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\Starter.csproj", "{DE0DB37B-8409-4BEC-BCF9-2C899E06D19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02599810-C6F1-4FA8-9DAA-B259F6A0315E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02599810-C6F1-4FA8-9DAA-B259F6A0315E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02599810-C6F1-4FA8-9DAA-B259F6A0315E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02599810-C6F1-4FA8-9DAA-B259F6A0315E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0DB37B-8409-4BEC-BCF9-2C899E06D19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0DB37B-8409-4BEC-BCF9-2C899E06D19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0DB37B-8409-4BEC-BCF9-2C899E06D19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0DB37B-8409-4BEC-BCF9-2C899E06D19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3417F9E4-F415-4B95-A1D3-C1431010111C} = {49E9F236-7B0B-4DFE-A58D-98614B2CD135}
+		{02599810-C6F1-4FA8-9DAA-B259F6A0315E} = {3417F9E4-F415-4B95-A1D3-C1431010111C}
+		{DE0DB37B-8409-4BEC-BCF9-2C899E06D19B} = {3417F9E4-F415-4B95-A1D3-C1431010111C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28FFD466-6E39-46C9-B9BB-9B4A167EBC3C}
+	EndGlobalSection
+EndGlobal
